@@ -1,9 +1,9 @@
-
+<!-- glavni naslov -->
 # Računalniški praktikum
 <!-- To je komentar, ki bo na prikazanem Markdownu skrit. 
      V tem besedilu so v komentarjih napisana navodila za reševanje. Pustite jih v datoteki. -->
 
-
+<!-- 2. nivojski razdelek -->
 ## Bližnjice na tipkovnici
 
 - *Kopiraj* označeno v odložišče: Ctrl+C (**C**opy)
@@ -12,6 +12,7 @@
 - *Odpri ukazno paleto*: Ctrl+Shift+P
 - *Hitro odpri datoteko*: Ctrl+P
 - *Pokaži ali skrij stransko vrstico*: Ctrl+B
+<!-- 2. nivojski razdelek -->
 ## Koda
 
 Včasih pride prav značka `kbd` za tipke. Značko uporabimo takole:
@@ -22,7 +23,7 @@ Včasih pride prav značka `kbd` za tipke. Značko uporabimo takole:
 ```
 <!-- konec bloka kode -->
 
-
+<!-- 2. nivojski razdelek -->
 ## Domača naloga
 
 <!-- Spodnji seznam bo pripravil seznam nalog. Na GitHubu bodo lepo vidna potrditvena polja, 
